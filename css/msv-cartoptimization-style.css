@@ -1,0 +1,110 @@
+.overlay {
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 200px;
+  width: 200px;
+  background: gray;
+}
+.for_button {
+ padding:5px;
+ text-align:center;
+ border:1px solid green;
+ border-radius:5px;
+ width:150px;
+}
+
+
+
+
+
+
+
+a.button25 {
+  position: relative;
+  display: inline-block;
+  width: 10em;
+  height: 1.5em;
+  line-height: 1.5em;
+  vertical-align: middle;
+  text-align: center;
+  text-decoration: none;
+  text-shadow: 0 -1px 1px #777;
+  color: #fff;
+  outline: none;
+  border: 2px solid #5EE026;
+  border-radius: 5px;
+  box-shadow: 0 0 0 60px rgba(0,0,0,0) inset, .2em .2em .4em #800;
+  background: #5EE026;
+}
+a.button25:active {
+  top: .1em;
+  left: .1em;
+  box-shadow: 0 0 0 60px rgba(0,0,0,.05) inset;
+}
+
+
+
+
+a.buttonToggle {
+    position: relative;
+    display: inline-block;
+    width: 15em;
+    height: 1.5em;
+    line-height: 1.5em;
+    vertical-align: middle;
+    text-align: center;
+    text-decoration: none;
+    color: #000;
+    outline: none;
+    border: 2px solid #f5f5f5;
+    border-radius: 5px;
+    box-shadow: 0 0 0 60px rgba(0,0,0,0) inset, .2em .2em .4em #a0a0a4;
+    background: #f5f5f5;
+}
+a.buttonToggle:active {
+    top: .1em;
+    left: .1em;
+    box-shadow: 0 0 0 60px rgba(0,0,0,.05) inset;
+}
+
+#new_budget{
+    height: 2em;
+}
+
+textarea {
+    height: 35px;
+  }
+
+fieldset {
+    margin: 0;
+    padding: 0;
+    border-width: 0;
+  }
+
+.stripped {
+	background-color: #d4def4;
+}
+
+.table {
+  border: 1px solid black; 
+  border-collapse: collapse;
+  overflow: auto;
+ }
+.table tr {
+  border: 1px solid black;
+}
+.table td {
+  border: 1px solid black;
+}
+.table th {
+  border: 1px solid black;
+}
+
+
+
+
+
+
