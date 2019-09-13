@@ -1,2 +1,6 @@
 # woo-cart-optimization
-My Woo Cart Optimization Plugin 
+## Woo Cart Optimization Plugin 
+### Files
+|Name|Description|
+|------|------|
+|function.php|php file for plugin|
